@@ -1,7 +1,7 @@
 # MFAnimationTransitionMigrate
 实现了iOS的一种页面切换效果，可以将界面一和界面二的某个控件关联起来，达到平移过渡的效果，具体如下。
 
-![](https://raw.githubusercontent.com/lmf12/MFAnimationTransitionMigrate/master/exhibition.gif)
+![](https://github.com/lmf12/ImageHost/blob/master/MFAnimationTransitionMigrate/exhibition.gif)
 
 ## 如何导入
 #### 手动导入
